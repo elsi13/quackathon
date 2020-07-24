@@ -8,4 +8,5 @@ To run the game, go to `quackathon\Quackathon2020\Builds\build_1` and download t
 
 ### The Game
 |![Start Page](https://i.imgur.com/KmgxTTm.png)|![Playing mode](https://i.imgur.com/uzA0QF5.png)|
+|:---:|:---:|
 
